@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 /*
     Recipe vegetable ragout
@@ -56,9 +56,9 @@
 
             }
 
-    cookAOvpshnoyRagu(2, 2, 2, 2, 4, 1, 2, 1, 0.5, 1, 1, 2, 'Delicious');
-=======
+    cookAOvpshnoyRagu(2, 2, 2, 2, 4, 1, 2, 1, 0.5, 1, 1, 2, 'Delicious')
 
+        
 /*
 Ibra's code
 Hodgepodge recipe:
@@ -68,7 +68,8 @@ Hodgepodge recipe:
 4 Cucumbers 
 2 Onions
 */
-fucntion cookAhodgepodge 
+        
+function cookAhodgepodge 
 ( int $potatoes, 
   float $meat, 
   float $sausages, 
@@ -98,4 +99,3 @@ Pour the olives into the hodgepodge along with the brine (the olives should be p
  
 } 
 cookAhodgepodge(3, 500, 150, 4, 2, 'Bon appetit!');
->>>>>>> origin/feature-hodgepodge
